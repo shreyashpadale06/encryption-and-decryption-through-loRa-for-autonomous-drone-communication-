@@ -1,0 +1,2 @@
+# encryption-and-decryption-through-loRa-for-autonomous-drone-communication-
+A secure drone-to-drone communication system using LoRa technology &amp; encryption to transmit GPS coordinates. The 1st drone collects and encrypts location data before transmission, while the 2nd drone receives &amp; decrypts  it to recover the original coordinates. Designed for secure location sharing in search &amp; rescue &amp; disaster management operations.
